@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chetan/static/css/main.628e3091.css",
+    "main.js": "/Chetan/static/js/main.0d34d706.js",
+    "static/js/787.e18456ad.chunk.js": "/Chetan/static/js/787.e18456ad.chunk.js",
+    "index.html": "/Chetan/index.html",
+    "main.628e3091.css.map": "/Chetan/static/css/main.628e3091.css.map",
+    "main.0d34d706.js.map": "/Chetan/static/js/main.0d34d706.js.map",
+    "787.e18456ad.chunk.js.map": "/Chetan/static/js/787.e18456ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628e3091.css",
+    "static/js/main.0d34d706.js"
+  ]
+}
